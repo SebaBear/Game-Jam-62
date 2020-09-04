@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Eraser" type="KinematicBody2D"]
+
+[node name="Eraser Animations" type="AnimatedSprite" parent="."]
+
+[node name="Eraser Collision" type="CollisionShape2D" parent="."]
